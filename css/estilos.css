@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	margin:0px;
+	padding: 0px;
+}
+h3{
+	margin:0px;
+	padding: 0px;
+	text-align: right;
+}
+.ajuste{
+	padding:1%;
+}
+i{
+	width:48px;
+	height: 48px;
+}
